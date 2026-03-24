@@ -1,2 +1,106 @@
-# Clinic-chatbot
-intern Ai
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=7C3AED&center=true&vCenter=true&width=600&lines=🤖+RAG+Chatbot;Retrieval-Augmented+Generation;Intelligent+Assistant;Modern+UI+with+Animations" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-success.svg?style=for-the-badge&logo=statuspal&color=7C3AED" />
+  <img src="https://img.shields.io/badge/version-2.0.0-blue.svg?style=for-the-badge&logo=git&color=3B82F6" />
+  <img src="https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge&logo=opensourceinitiative&color=10B981" />
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=github&color=F59E0B" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-0.100+-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-3.0+-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-0.1.0-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+</p>
+
+<br/>
+
+<!-- Banner Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=RAG%20Chatbot&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Retrieval-Augmented%20Generation%20with%20Modern%20UI&descAlignY=55" width="100%" />
+</p>
+
+---
+
+## ✨ **Fitur Unggulan**
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />
+      <br />
+      <b>🧠 RAG Architecture</b>
+      <br />
+      <sub>Akurat & Kontekstual</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" />
+      <br />
+      <b>⚡ Real-time Streaming</b>
+      <br />
+      <sub>Typing Animation Effect</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" />
+      <br />
+      <b>🎨 Modern UI</b>
+      <br />
+      <sub>Smooth Animations</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chromium/chromium-original.svg" width="60" height="60" />
+      <br />
+      <b>📚 Document Upload</b>
+      <br />
+      <sub>PDF, TXT, DOCX Support</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" />
+      <br />
+      <b>💬 Chat History</b>
+      <br />
+      <sub>Persistent Conversations</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="60" height="60" />
+      <br />
+      <b>🔍 Semantic Search</b>
+      <br />
+      <sub>Vector Embeddings</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎬 **Live Demo**
+
+<p align="center">
+  <a href="https://demo.example.com">
+    <img src="https://img.shields.io/badge/🚀_TRY_LIVE_DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://via.placeholder.com/900x500/1f2937/ffffff?text=Chat+Interface+Demo+with+Animations" alt="Demo Screenshot" width="90%" />
+  <br />
+  <sub><i>✨ Chat interface dengan animasi typing dan message entrance ✨</i></sub>
+</div>
+
+---
+
+## 🛠️ **Tech Stack**
+
+```mermaid
+graph LR
+    A[Frontend<br/>React + Tailwind] --> B[Backend API<br/>FastAPI]
+    B --> C[LangChain<br/>Orchestration]
+    C --> D[Vector DB<br/>ChromaDB]
+    C --> E[LLM<br/>OpenAI/Gemini]
+    B --> F[Document Parser<br/>PyPDF2]
