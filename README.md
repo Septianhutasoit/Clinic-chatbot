@@ -79,28 +79,4 @@
 
 ---
 
-## 🎬 **Live Demo**
 
-<p align="center">
-  <a href="https://demo.example.com">
-    <img src="https://img.shields.io/badge/🚀_TRY_LIVE_DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://via.placeholder.com/900x500/1f2937/ffffff?text=Chat+Interface+Demo+with+Animations" alt="Demo Screenshot" width="90%" />
-  <br />
-  <sub><i>✨ Chat interface dengan animasi typing dan message entrance ✨</i></sub>
-</div>
-
----
-
-## 🛠️ **Tech Stack**
-
-```mermaid
-graph LR
-    A[Frontend<br/>React + Tailwind] --> B[Backend API<br/>FastAPI]
-    B --> C[LangChain<br/>Orchestration]
-    C --> D[Vector DB<br/>ChromaDB]
-    C --> E[LLM<br/>OpenAI/Gemini]
-    B --> F[Document Parser<br/>PyPDF2]
