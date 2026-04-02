@@ -19,7 +19,6 @@
 
 <br/>
 
-<!-- Banner Animation -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=RAG%20Chatbot&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Retrieval-Augmented%20Generation%20with%20Modern%20UI&descAlignY=55" width="100%" />
 </p>
